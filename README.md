@@ -1,5 +1,9 @@
 # Easy-TgBot-Generator
 
+You often have to create bots in tg?
+How make it faster?
+This project will help You!!!
+
 Script which can create project skeleton with basic configs.
 
 ## Description
@@ -42,4 +46,4 @@ This project need to make process of creation more faster and better :)
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details."""
+This project is licensed under the MIT License. See the LICENSE file for details.
